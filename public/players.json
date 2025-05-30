@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "name": "Virat kohli",
+      "image": "https://i.ibb.co/zTPXm1GV/virat.jpg",
+      "country": "India",
+      "category": "Batsman",
+      "bowling_arm": "Right",
+      "batting_arm": "Right",
+      "price": 1800000,
+      "rating": 92
+    },
+    {
+      "id": 2,
+      "name": "Mitchell Marsh",
+      "image": "https://i.ibb.co/G4v5yczD/marsh.webp",
+      "country": "Australia",
+      "category": "All Rounder",
+      "bowling_arm": "Right",
+      "batting_arm": "Right",
+      "price": 1400000,
+      "rating": 85
+    },
+    {
+      "id": 3,
+      "name": "Shakib Al Hasan",
+      "image": "https://i.ibb.co/27cTTgdt/Shakib-Al-Hasan-1.webp",
+      "country": "Bangladesh",
+      "category": "All Rounder",
+      "bowling_arm": "Left",
+      "batting_arm": "Left",
+      "price": 2000000,
+      "rating": 90
+    },
+    {
+      "id": 4,
+      "name": "Chris Gayle",
+      "image": "https://i.ibb.co/LD7PQRn4/image.jpg",
+      "country": "West Indies",
+      "category": "All Rounder",
+      "bowling_arm": "Left",
+      "batting_arm": "Right",
+      "price": 1600000,
+      "rating": 87
+    },
+    {
+      "id": 5,
+      "name": "Lasith Malinga",
+      "image": "https://i.ibb.co/SwZ8qv7g/562-camedia.png",
+      "country": "Sri Lanka",
+      "category": "Bowler",
+      "bowling_arm": "Right",
+      "batting_arm": "Right",
+      "price": 1900000,
+      "rating": 89
+    },
+    {
+      "id": 6,
+      "name": "Kane Williamson",
+      "image": "https://i.ibb.co/pvJtTK4L/kane.jpg",
+      "country": "New Zealand",
+      "category": "Batsman",
+      "bowling_arm": "Right",
+      "batting_arm": "Right",
+      "price": 1300000,
+      "rating": 82
+    },
+    {
+      "id": 7,
+      "name": "AB de villiers",
+      "image": "https://i.ibb.co/93tJQ63m/ABD-photos.webp",
+      "country": "South Africa",
+      "category": "Batsman",
+      "bowling_arm": "Right",
+      "batting_arm": "Right",
+      "price": 1700000,
+      "rating": 88
+    },
+    {
+      "id": 8,
+      "name": "Maxwell",
+      "image": "https://i.ibb.co/xqCfp57w/591-camedia.png",
+      "country": "Australia",
+      "category": "All Rounder",
+      "bowling_arm": "Right",
+      "batting_arm": "Right",
+      "price": 1800000,
+      "rating": 86
+    },
+    {
+      "id": 9,
+      "name": "David Warner",
+      "image": "https://i.ibb.co/s9CLg7Gk/4275.webp",
+      "country": "Australia",
+      "category": "Batsman",
+      "bowling_arm": "Left",
+      "batting_arm": "Left",
+      "price": 1400000,
+      "rating": 83
+    },
+    {
+      "id": 10,
+      "name": "Mustafizur Rahman",
+      "image": "https://i.ibb.co/4G5zjg2/images.jpg",
+      "country": "Bangladesh",
+      "category": "Bowler",
+      "bowling_arm": "Left",
+      "batting_arm": "Left",
+      "price": 1900000,
+      "rating": 89
+    },
+    {
+      "id": 11,
+      "name": "Mohammad Rizwan",
+      "image": "https://i.ibb.co/cctkGxbK/images-1.jpg",
+      "country": "Pakistan",
+      "category": "Batsman",
+      "bowling_arm": "Right",
+      "batting_arm": "Right",
+      "price": 1750000,
+      "rating": 91
+    },
+    {
+      "id": 12,
+      "name": "Rashid khan",
+      "image": "https://i.ibb.co/dwkdQLj3/images-2.jpg",
+      "country": "Afganistan",
+      "category": "Bowler",
+      "bowling_arm": "Right",
+      "batting_arm": "Right",
+      "price": 1500000,
+      "rating": 84
+    }
+  ]
+  

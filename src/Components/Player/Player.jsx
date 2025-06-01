@@ -1,6 +1,6 @@
-import {FaFlag} from 'react-icons/fa';
+import { FaFlag } from 'react-icons/fa';
 const Player = ({ player }) => {
-    const { name, image, country } = player;
+    const { name, image, country, category, rating, batting_arm, bowling_arm, price } = player;
     return (
         <div className="">
             <div className="card border">
@@ -18,12 +18,26 @@ const Player = ({ player }) => {
                             </div>
                         </div>
                         <h2 className="font-bold">{name}</h2></div>
+                    <div className='flex justify-between'>
                         <div className='flex items-center gap-2'>
-                            <p><FaFlag/></p>
+                            <p><FaFlag /></p>
                             <p className='text-[#00000052]'>{country}</p>
                         </div>
-                    <div className="justify-end">
-                        <button className="btn btn-primary">Buy Now</button>
+                        <p className='bg-gray-200 px-2 p-2 rounded-lg'>{category}</p>
+                    </div>
+                    <hr />
+                    <div className='flex justify-between'>
+                        <h2 className='text-lg'>Rating</h2>
+                        <p>{rating}</p>
+                    </div>
+                    <div className='flex justify-between'>
+                        <p>{batting_arm}</p>
+                        <p>{bowling_arm}</p>
+                    </div>
+                    
+                    <div className='flex justify-between'>
+                        <p className='font-bold'>price: ${price}</p>
+                        <button className='btn'>Choose player</button>
                     </div>
                 </div>
             </div>
